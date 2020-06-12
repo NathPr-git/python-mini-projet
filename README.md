@@ -30,9 +30,17 @@ Le répertoire `notebooks`contient le *notebook* [Jupyter](https://jupyter.org/)
     conda activate python-mini-projet
     ```
 
-6. Chargez les extensions Jupyter Lab :
+6. Chargez les extensions Jupyter Lab.
+
+- pour les utilisateurs de Linux, WSL, Mac :
     ```
     bash binder/postBuild
+    ```
+    
+- pour les utilisateurs de PowerShell :
+    ```
+    jupyter labextension install @jupyter-widgets/jupyterlab-manager
+    jupyter labextension install @jupyterlab/toc
     ```
 
 7. Lancez Jupyter Lab :
