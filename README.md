@@ -52,7 +52,7 @@ Pour des utilisations ultérieures, seules les étapes 3, 5 et 7 seront nécessa
 
 ## Remarques pour les utilisateurs de Windows (sans WSL)
 
-Si vous avez installé miniconda sur Windows (mais sans WSL), vous pouvez également installer cet environnement sur votre machine. 
+Si vous avez installé miniconda sur Windows avec le PowerShell (donc pas dans le WSL), vous pouvez également installer cet environnement sur votre machine. 
 
 Dans un premier temps, installez `git` si ce n'est pas déjà fait en exécutant cette commande dans un terminal :
 ```
