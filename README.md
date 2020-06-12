@@ -1,6 +1,6 @@
 # Mini projet Python 2020
 
-Vous pouvez manipuler le *notebook$ proposé en ligne avec Binder :
+Vous pouvez manipuler le *notebook* proposé en ligne avec Binder :
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/sderozier/python-mini-projet/master?urlpath=lab)
 
