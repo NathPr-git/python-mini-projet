@@ -1,12 +1,12 @@
 # Mini projet Python 2020
 
-Vous pouvez manipuler les notebooks proposés en ligne avec Binder :
+Vous pouvez manipuler le *notebook$ proposé en ligne avec Binder :
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/sderozier/python-mini-projet/master?urlpath=lab)
 
 Le répertoire `notebooks`contient le *notebook* [Jupyter](https://jupyter.org/) pour votre mini-projet.
 
-## Manipuler les notebooks localement (sur votre machine)
+## Manipuler le *notebook* localement (sur votre machine)
 
 1. Installez miniconda dans un environnement de type Unix (WSL pour Windows, Mac OSX ou Linux)
 
