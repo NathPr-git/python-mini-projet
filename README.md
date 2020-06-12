@@ -1,4 +1,4 @@
-# Exemples d'utilisation de Python en bioinformatique
+# Mini projet Python 2020
 
 Vous pouvez manipuler les notebooks proposés en ligne avec Binder :
 
