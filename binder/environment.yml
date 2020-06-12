@@ -11,9 +11,8 @@ dependencies:
     - numpy
     - scipy
     - pandas
-    - xlrd # to read .xlsx files from Pandas
     - matplotlib
     - jupyterlab
     - ipywidgets
     - biopython
-    - bcbio-gff
+    - nodejs
